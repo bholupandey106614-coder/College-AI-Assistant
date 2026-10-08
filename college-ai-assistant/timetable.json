@@ -1,0 +1,17 @@
+[
+    {
+        "day": "Monday",
+        "time": "09:00-10:00",
+        "subject": "Data Structures"
+    },
+    {
+        "day": "Monday",
+        "time": "10:00-11:00",
+        "subject": "Mathematics"
+    },
+    {
+        "day": "Tuesday",
+        "time": "09:00-10:00",
+        "subject": "Python"
+    }
+]
